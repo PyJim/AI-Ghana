@@ -1,5 +1,5 @@
 # Problem 1
-Write a function flatten_lists that takes in a list of lists and outputs a sorted list of elements of sublists of the input list (confusing right?)
+Write a function flatten_lists that takes in a list of lists and outputs a sorted list of elements of sublists of the input list.
 Example: given flatten_lists([[2,13,44], [6,7]]) it should return [2,6,7,13,44]
 
 # Problem 2
